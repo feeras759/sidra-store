@@ -1,0 +1,25 @@
+{
+  "name": "سدرة - عالمك الأنيق",
+  "short_name": "سدرة",
+  "description": "متجر سدرة الإلكتروني للتسوق المميز",
+  "start_url": "/sidra-store/",
+  "display": "standalone",
+  "background_color": "#0d6b45",
+  "theme_color": "#0d6b45",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='https://i.imgur.com/xSBZOhU.jpg' width='192' height='192' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%230d6b45' rx='30'/%3E%3Ctext x='96' y='120' font-size='80' text-anchor='middle' fill='white' font-family='sans-serif'%3Eس%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='https://i.imgur.com/xSBZOhU.jpg' width='512' height='512' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230d6b45' rx='60'/%3E%3Ctext x='256' y='320' font-size='200' text-anchor='middle' fill='white' font-family='sans-serif'%3Eس%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
